@@ -44,5 +44,5 @@ function doWhen(cond,action){
         action();
     else
         return void 0;
-
 }
+
